@@ -77,8 +77,8 @@ export function Timeline() {
         company="Booster"
         title="Software Engineer, Design Lead"
       >
-        Led the design and UI develpment across all applications from seed stage
-        to a $20M Series B.
+        Led the design and UI development across all applications from seed
+        stage to a $20M Series B.
       </TimelineSection>
       <TimelineSection
         startYear={2014}
