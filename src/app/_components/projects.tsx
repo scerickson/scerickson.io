@@ -72,10 +72,10 @@ export function Projects() {
         links={[
           {
             href: 'https://crowdsurf.xyz/',
-            text: 'Web',
+            text: 'web',
           },
           {
-            text: 'iOS',
+            text: 'ios',
             disabled: true,
           },
         ]}
@@ -89,15 +89,15 @@ export function Projects() {
         links={[
           {
             href: 'https://boosterusa.com/',
-            text: 'Web',
+            text: 'web',
           },
           {
             href: 'https://web.archive.org/web/20220222201644/https://apps.apple.com/us/app/booster-on-demand-fuel/id1018909771',
-            text: 'iOS',
+            text: 'ios',
           },
           {
             href: 'https://web.archive.org/web/20170718044953/https://play.google.com/store/apps/details?id=com.boosterfuels.boosterfuels&hl=en',
-            text: 'Android',
+            text: 'android',
           },
         ]}
       >
@@ -109,7 +109,7 @@ export function Projects() {
         links={[
           {
             href: 'https://asured.co/',
-            text: 'Web',
+            text: 'web',
           },
         ]}
       >
@@ -121,15 +121,15 @@ export function Projects() {
         icon={<RallyLogo />}
         links={[
           {
-            text: 'Web',
+            text: 'web',
             disabled: true,
           },
           {
-            text: 'iOS',
+            text: 'ios',
             disabled: true,
           },
           {
-            text: 'Android',
+            text: 'android',
             disabled: true,
           },
         ]}
