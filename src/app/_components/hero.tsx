@@ -27,7 +27,7 @@ export function HeroContent() {
             </StyledLink>
             , and was an early hire at{' '}
             <StyledLink
-              href="https://www.crunchbase.com/organization/booster-fuels"
+              href="https://www.prnewswire.com/news-releases/booster-raises-125m-in-funding-to-expand-mobile-fuel-delivery-accelerating-decarbonization-of-the-mobility-and-transportation-sector-301554540.html"
               target="_blank"
             >
               Booster
